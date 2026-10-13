@@ -52,7 +52,7 @@ Order ID, Order Date, Customer Name, City, Product, Category, Quantity, Unit Pri
 4. Use the slicers to filter by date, category, city and order status.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Author
 **Jeevaneshwaran G**
